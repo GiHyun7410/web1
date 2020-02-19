@@ -29,7 +29,7 @@ div{
 
 video{
 	position: relative;
-	width: 50%;
+	width: 100%;
 }
 
 
@@ -45,7 +45,7 @@ img{
 	
 video{
 	position: relative;
-	width: 100%;
+	width: 50%;
 	}
 
 }
