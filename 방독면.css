@@ -29,18 +29,23 @@ div{
 
 video{
 	position: relative;
-	width: 100%;
+	width: 50%;
 }
 
 
 @media (min-width: 768px){
 	
 	
-		img{
+img{
 	width: 100%;
 	max-width: 50%;
 	height: auto;
 	vertical-align: middle;
+	}
+	
+video{
+	position: relative;
+	width: 100%;
 	}
 
 }
