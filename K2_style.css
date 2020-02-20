@@ -26,17 +26,27 @@ div{
 	text-decoration: none;
 }
 
+video{
+	position: relative;
+	width: 93%;
+}
+
 
 /* Tablet View */
 
 @media (min-width: 768px){
 	
 	
-		img{
+img{
 	width: 100%;
 	max-width: 50%;
 	height: auto;
 	vertical-align: middle;
+	}
+	
+video{
+	position: relative;
+	width: 46%;
 	}
 
 }
