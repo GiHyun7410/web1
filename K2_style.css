@@ -48,5 +48,28 @@ video{
 	position: relative;
 	width: 46%;
 	}
+	
+.K201{
+	position: relative;
+	width: 100%;
+	top: -10px;
+	}
+	
+.K202{
+	position: relative;
+	width: 92.3%;
+	margin: auto;
+	}
+.K203{
+	position: relative;
+	width: 100%;
+	top: -10px;
+	}
+	
+.K200{
+	position: relative;
+	width: 92.3%;
+	margin: auto;
+	}
 
 }

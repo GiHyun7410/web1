@@ -47,5 +47,55 @@ video{
 	position: relative;
 	width: 48%;
 	}
-
+	
+.back{
+	position: relative;
+	top: -20px;
+	left: 0;
+	}
+	
+.back_1{
+	position: relative;
+	top:-30px;
+	}
+	
+.GAS05{
+	position: relative;
+	width: 96.5%;
+	margin: auto;
+	}
+	
+.GAS06{
+	position: relative;
+	width: 100%;
+	top: -10px;
+	}
+	 
+.GAS06_1{
+	position: relative;
+	width: 96.4%;
+	margin: auto;
+	}
+.GAS07{
+	position: relative;
+	width: 96.4%;
+	margin: auto;
+	}
+.GAS07_1{
+	position: relative;
+	top: -10px;
+	}
+/*	
+.box{
+	float : none;
+	width : 500px;
+	height : 515px;
+	margin : -17px 200px;
+	}
+.box:hover .front{transform: translateX(100px);}
+.box:hover .back{transfrom: translateX(-100px);}
+	
+.front{transfrom: translateX(0px); transition: all 0.8s ease;}
+.back{transform: translateX(0px); transition: all 0.8s ease;}
+	*/
 }
