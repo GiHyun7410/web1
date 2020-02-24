@@ -31,6 +31,29 @@ video{
 	width: 93%;
 }
 
+.K201{
+	position: relative;
+	width: 100%;
+	top: -10px;
+	}
+	
+.K202{
+	position: relative;
+	width: 93.4%;
+	margin: auto;
+	}
+.K203{
+	position: relative;
+	width: 100%;
+	top: -10px;
+	}
+	
+.K200{
+	position: relative;
+	width: 93.2%;
+	margin: auto;
+	}
+
 
 /* Tablet View */
 

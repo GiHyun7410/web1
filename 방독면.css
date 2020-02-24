@@ -32,6 +32,44 @@ video{
 	width: 96%;
 }
 
+.back{
+	position: relative;
+	top: -3px;
+	left: 0;
+	}
+	
+.back_1{
+	position: relative;
+	top:-10px;
+	}
+	
+.GAS05{
+	position: relative;
+	width: 96.3%;
+	margin: auto;
+	}
+	
+.GAS06{
+	position: relative;
+	width: 100%;
+	top: -10px;
+	}
+	 
+.GAS06_1{
+	position: relative;
+	width: 96.4%;
+	margin: auto;
+	}
+.GAS07{
+	position: relative;
+	width: 96.4%;
+	margin: auto;
+	}
+.GAS07_1{
+	position: relative;
+	top: -10px;
+	}
+
 
 @media (min-width: 768px){
 	
